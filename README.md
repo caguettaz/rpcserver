@@ -2,7 +2,7 @@
 
 This is a skeleton RPC server daemon for Linux, written in Python3.
 
-Settings are located in settings.py
+Settings are located in settings.py  
 Control it with ./scripts/rpcserver
 
 e.g.:
